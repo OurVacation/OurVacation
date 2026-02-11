@@ -17,8 +17,8 @@
 ### Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 
-### Tools
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+### Tools & Environment
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
 
 ### 🔭 Interests
 <img src="https://img.shields.io/badge/Infra-000000?style=flat-square&logo=server&logoColor=white"> <img src="https://img.shields.io/badge/Infrastructures-555555?style=flat-square&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Cloud-326CE5?style=flat-square&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Server-2496ED?style=flat-square&logo=ubuntu&logoColor=white">
